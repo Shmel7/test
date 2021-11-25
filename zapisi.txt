@@ -119,15 +119,16 @@ git commit -am "ss"
 git push -u origin second_name
 git push origin :second name (удаляем название старой ветки)
 git push -u origin first name (запушили ветку с новым названием)
-
+привет
 что бы удалить ветку с локального переходим в мастер ветку (пше checkout master)
 git branch -d second branch удалили ветку
 git fetch origin second branche (вернули ветку)
 git branch ветки еще нет
 git checkout second_branch
 теперь эта ветка отслеживается
-привет
+
 переключиться на ветку git checkout vetka2
+git gui&
 
 
 
