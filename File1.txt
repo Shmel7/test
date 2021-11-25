@@ -6,3 +6,4 @@ Add Line
 wrdnesday
 note from pc
 note from git
+line to remove
