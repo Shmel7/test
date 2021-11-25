@@ -4,4 +4,8 @@ newmonday
 new
 Add Line
 wrdnesday
+<<<<<<< HEAD
 note from pc
+=======
+note from git
+>>>>>>> 951e40f9daf8792f15fd5cafcac2f58bf5f8f223
