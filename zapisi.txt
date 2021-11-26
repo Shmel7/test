@@ -129,6 +129,7 @@ git checkout second_branch
 
 переключиться на ветку git checkout vetka2
 git gui&
+gitk& визаульный вид
 
 
 
